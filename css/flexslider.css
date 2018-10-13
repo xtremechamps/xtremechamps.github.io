@@ -62,7 +62,7 @@ html[xmlns] .slides {display: block;}
     cursor: pointer;
     text-indent: -9999px;
     opacity: 1;
-    -webkit-transition: all .3s ease;
+    -webkit-transition: all .2s ease;
 	display:none;
 }
 .flex-direction-nav .flex-next {
